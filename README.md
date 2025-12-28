@@ -1,8 +1,8 @@
 # 🌿 Eunoia — A Campus-First Digital Mental Health Companion
 
-**Live Deployment:** *(https://eunoia-prototype-7wycjuh04-satviks-projects-8dfddd80.vercel.app)*
+**Live Deployment:** _(https://eunoia-prototype-7wycjuh04-satviks-projects-8dfddd80.vercel.app)_
 
-Eunoia is a modern mental-health support platform designed specifically for college students. It brings together validated self-assessments, mood tracking, counseling bookings, and a central resource hub — all wrapped in a calming, minimal, glass-morphism UI.
+Eunoia: A student-focused mental health platform featuring validated assessments (PHQ-9/GAD-7), mood tracking, counseling scheduling, and resource hub—all in a soothing glassmorphism interface.
 
 The goal is simple:
 
@@ -16,32 +16,32 @@ This project was developed using an **AI-assisted engineering workflow**, where 
 
 ## 🧠 1. Validated Mental Health Assessments
 
-* PHQ-9 for depression
-* GAD-7 for anxiety
-* Color-coded severity
-* Configurable scoring
-* Clean card-based interface
+- PHQ-9 for depression
+- GAD-7 for anxiety
+- Color-coded severity
+- Configurable scoring
+- Clean card-based interface
 
 ## 😊 2. Mood Logging
 
-* Daily emotion check-ins
-* Emoji/label selector
-* Optional notes
-* Recent mood history panel
+- Daily emotion check-ins
+- Emoji/label selector
+- Optional notes
+- Recent mood history panel
 
 ## 📅 3. Counseling Session Booking
 
-* Students can book sessions with name, email, reason & timeslot
-* Shows in user history
-* Admin can Confirm / Cancel / Delete
+- Students can book sessions with name, email, reason & timeslot
+- Shows in user history
+- Admin can Confirm / Cancel / Delete
 
 ## 👤 4. Anonymous Identity System
 
 No login required. Each user gets a **persistent anonymous ID** stored locally, enabling:
 
-* Personalized history
-* Saved assessments
-* Saved moods
+- Personalized history
+- Saved assessments
+- Saved moods
 
 No personal data collection.
 
@@ -49,22 +49,22 @@ No personal data collection.
 
 Includes:
 
-* Severity distribution analytics
-* Latest assessments
-* Latest bookings
-* CRUD controls:
+- Severity distribution analytics
+- Latest assessments
+- Latest bookings
+- CRUD controls:
 
-  * Delete assessments
-  * Delete moods
-  * Update booking status
-  * Remove test data
+  - Delete assessments
+  - Delete moods
+  - Update booking status
+  - Remove test data
 
 ## 🧭 6. Resources & Peer Support
 
-* Crisis links
-* Campus support
-* Guides for PHQ-9 & GAD-7
-* Peer support placeholder section
+- Crisis links
+- Campus support
+- Guides for PHQ-9 & GAD-7
+- Peer support placeholder section
 
 ---
 
@@ -72,11 +72,11 @@ Includes:
 
 Consistent design system using:
 
-* Glassmorphism surfaces
-* Dark gradient backgrounds
-* Responsive grid layouts
-* Clean typography
-* Purple (PHQ-9) and Blue (GAD-7) accents
+- Glassmorphism surfaces
+- Dark gradient backgrounds
+- Responsive grid layouts
+- Clean typography
+- Purple (PHQ-9) and Blue (GAD-7) accents
 
 All UI refactored using Antigravity with **logic fully preserved**.
 
@@ -86,21 +86,21 @@ All UI refactored using Antigravity with **logic fully preserved**.
 
 ### Frontend
 
-* Next.js 14 (App Router)
-* React
-* TypeScript
-* Tailwind CSS
+- Next.js 14 (App Router)
+- React
+- TypeScript
+- Tailwind CSS
 
 ### Backend
 
-* Next.js API Routes
-* Prisma ORM
-* SQLite (demo)
-* PostgreSQL-ready schema
+- Next.js API Routes
+- Prisma ORM
+- SQLite (demo)
+- PostgreSQL-ready schema
 
 ### Deployment
 
-* Vercel
+- Vercel
 
 ---
 
@@ -216,15 +216,15 @@ For production, migrate to Supabase Postgres.
 
 # 🔮 Future Roadmap
 
-* Supabase migration
-* Admin authentication
-* Mood trend analytics
-* Guided journaling
-* Breathing exercises
-* AI-based recommendations
-* Peer support chat
-* PWA mobile support
-* Multi-language UI
+- Supabase migration
+- Admin authentication
+- Mood trend analytics
+- Guided journaling
+- Breathing exercises
+- AI-based recommendations
+- Peer support chat
+- PWA mobile support
+- Multi-language UI
 
 ---
 
